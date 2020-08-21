@@ -1,0 +1,40 @@
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.exe
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.deps.json
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.runtimeconfig.json
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.runtimeconfig.dev.json
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.dll
+C:\Users\micha\source\repos\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.pdb
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.csprojAssemblyReference.cache
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.AssemblyInfo.cs
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.RazorTargetAssemblyInfo.cache
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\staticwebassets\Exercício7.StaticWebAssets.Manifest.cache
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\staticwebassets\Exercício7.StaticWebAssets.xml
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.dll
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.pdb
+C:\Users\micha\source\repos\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.exe
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\bin\Debug\netcoreapp3.1\Exercício7.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.RazorTargetAssemblyInfo.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\staticwebassets\Exercício7.StaticWebAssets.Manifest.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\staticwebassets\Exercício7.StaticWebAssets.xml
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Kaffa-Challenge\Exercício7\Exercício7\obj\Debug\netcoreapp3.1\Exercício7.genruntimeconfig.cache

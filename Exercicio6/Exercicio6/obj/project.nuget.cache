@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3z0STaArLRKAhIribFCY1XUJzXsUr6DoCuLAk9HSzy2mn5I298qIgrzEBNP8u72H97UqWXNquFgOfvmHfXvkmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Kaffa-Challenge\\Exercicio6\\Exercicio6\\Exercicio6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
+    "C:\\Users\\micha\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
